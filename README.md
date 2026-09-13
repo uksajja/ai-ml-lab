@@ -22,7 +22,7 @@ Classification project exploring ensemble learning and systematic hyperparameter
 
 ---
 
-**[SuperKart](https://github.com/uksajja/superkart-forecasting-deployment)**
+**[SuperKart Forecasting Deployment](https://github.com/uksajja/superkart-forecasting-deployment)**
 
 Retail sales forecasting project covering regression modeling,
 model serving, and application deployment.
@@ -39,7 +39,7 @@ Comparative study of multiple neural-network architectures for machine failure c
 
 ---
 
-**[HelmNet](https://github.com/uksajja/helmnet-image-classification)**
+**[HelmNet Image Classification](https://github.com/uksajja/helmnet-image-classification)**
 
 Computer vision project for helmet/no-helmet classification using
 convolutional neural networks, transfer learning, and image augmentation.
@@ -48,7 +48,7 @@ convolutional neural networks, transfer learning, and image augmentation.
 
 ---
 
-**[Medical Assistant](https://github.com/uksajja/medical-assistant-rag)**
+**[Medical Assistant RAG Based NLP Application](https://github.com/uksajja/medical-assistant-rag)**
 
 RAG-based application combining document retrieval, embeddings, vector search, and LLM generation.
 
