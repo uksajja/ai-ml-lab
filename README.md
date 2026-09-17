@@ -48,7 +48,7 @@ convolutional neural networks, transfer learning, and image augmentation.
 
 ---
 
-**[Medical Assistant RAG Based NLP Application](https://github.com/uksajja/medical-assistant-rag)**
+**[Medical Assistant RAG Based NLP Application](https://github.com/uksajja/medical-assistant-rag-nlp)**
 
 RAG-based application combining document retrieval, embeddings, vector search, and LLM generation.
 
